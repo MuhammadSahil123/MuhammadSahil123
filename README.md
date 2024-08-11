@@ -71,7 +71,6 @@ I specialize in crafting full-stack applications using the **MERN stack** and **
 
 ---
 
----
 
 ## 🌐 Connect with Me
 
