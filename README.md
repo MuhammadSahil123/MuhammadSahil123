@@ -107,3 +107,6 @@ Thank you for stopping by my GitHub profile! 😊
 **_“The best way to predict the future is to invent it.”_** — Alan Kay
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadsahil&theme=radical)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/muhammadsahil)
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadsahil&color=blueviolet)
