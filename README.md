@@ -1,42 +1,48 @@
 # 👋 Hello, I'm Muhammad Sahil!
 
-Welcome to my GitHub profile! I’m a passionate developer with expertise in a variety of technologies. I love building innovative solutions and am always eager to tackle new challenges.
+Welcome to my GitHub profile! I’m a passionate developer with a knack for crafting innovative solutions and an eagerness to tackle new challenges. Whether you're into full-stack development, web design, or backend engineering, you'll find something interesting here.
 
 ---
 
 ## 🚀 About Me
 
-I specialize in crafting full-stack applications using the **MERN stack** and **Next.js**, but my toolkit spans a wide range of technologies. My goal is to create impactful software and contribute to exciting projects.
+I'm a full-stack developer who loves to build impactful software using cutting-edge technologies. Specializing in the **MERN stack** and **Next.js**, my expertise spans a wide range of tools and frameworks. I'm dedicated to contributing to exciting projects and delivering high-quality, scalable solutions.
 
 ---
 
 ## 💡 What I Do
 
-- **Full-Stack Development**: Leveraging MERN stack and Next.js for dynamic, high-performance web applications.
-- **Web Design**: Utilizing HTML, CSS, Bootstrap, and JavaScript to build responsive and aesthetically pleasing interfaces.
-- **Backend Engineering**: Implementing robust server-side solutions with PHP, Laravel, ASP.NET C#, and MySQL.
+- **Full-Stack Development**: Crafting dynamic, high-performance applications using the MERN stack and Next.js.
+- **Web Design**: Designing responsive, aesthetically pleasing interfaces with HTML, CSS, Bootstrap, and JavaScript.
+- **Backend Engineering**: Building robust server-side solutions with PHP, Laravel, ASP.NET C#, and MySQL.
 - **CMS Development**: Customizing and extending WordPress for flexible content management.
+- **Data Analysis & Machine Learning**: Utilizing Python, Google Colab, and Jupyter for data-driven insights.
 
 ---
 
 ## 🌟 Skills & Expertise
 
 ### Frontend
-- **HTML5, CSS3**: Structuring and styling modern web pages.
-- **Bootstrap, jQuery**: Building responsive and interactive UIs.
-- **JavaScript, React, Next.js**: Creating dynamic, single-page applications.
+- **HTML5, CSS3**: Creating modern web page structures and styles.
+- **Bootstrap, jQuery**: Developing responsive and interactive user interfaces.
+- **JavaScript, React, Next.js**: Building dynamic, single-page applications with ease.
 
 ### Backend
-- **Node.js, Express.js**: Developing scalable server-side applications.
+- **Node.js, Express.js**: Designing scalable server-side applications.
 - **PHP, Laravel**: Crafting robust PHP applications and APIs.
-- **ASP.NET C#**: Building enterprise-level applications.
+- **ASP.NET C#**: Developing enterprise-level applications.
 
 ### Databases
-- **MongoDB**: Flexible NoSQL database solutions.
-- **MySQL**: Relational database management.
-- **WordPress**: Customizing CMS for diverse needs.
+- **MongoDB**: Providing flexible NoSQL database solutions.
+- **MySQL**: Managing relational databases efficiently.
+- **WordPress**: Extending and customizing CMS for diverse content needs.
+
+### Data Science & Machine Learning
+- **Python**: Analyzing data and automating tasks.
+- **Google Colab, Jupyter Notebooks**: Collaborating on and sharing research and analysis.
 
 ---
+
 ## 🛠️ Tools & Technologies
 
 ### **Frontend & Design**
@@ -59,6 +65,11 @@ I specialize in crafting full-stack applications using the **MERN stack** and **
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
+### **Data Science**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
 ### **Tools & Platforms**
 - ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -71,11 +82,9 @@ I specialize in crafting full-stack applications using the **MERN stack** and **
 
 ---
 
-
 ## 🌐 Connect with Me
 
 - **[LinkedIn](https://www.linkedin.com/in/muhammad-sahil-054333291/)**
-
 
 ---
 
@@ -89,7 +98,7 @@ Feel free to reach out for collaborations, project discussions, or just a friend
 
 ## 📈 Current Focus
 
-I’m currently diving into **TypeScript** and exploring **GraphQL**. I'm also contributing to open-source projects and learning about **cloud computing**.
+I’m currently diving into **TypeScript** and exploring **GraphQL**. I'm also contributing to open-source projects and learning more about **cloud computing** and **containerization** with Docker.
 
 ---
 
@@ -98,4 +107,3 @@ Thank you for stopping by my GitHub profile! 😊
 **_“The best way to predict the future is to invent it.”_** — Alan Kay
 
 ---
-
